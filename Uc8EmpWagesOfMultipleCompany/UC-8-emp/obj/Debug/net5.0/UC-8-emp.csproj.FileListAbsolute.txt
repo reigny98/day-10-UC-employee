@@ -1,0 +1,16 @@
+C:\Users\churchill paul\source\repos\UC-emp oops\UC-8-emp\UC-8-emp\bin\Debug\net5.0\UC-8-emp.exe
+C:\Users\churchill paul\source\repos\UC-emp oops\UC-8-emp\UC-8-emp\bin\Debug\net5.0\UC-8-emp.deps.json
+C:\Users\churchill paul\source\repos\UC-emp oops\UC-8-emp\UC-8-emp\bin\Debug\net5.0\UC-8-emp.runtimeconfig.json
+C:\Users\churchill paul\source\repos\UC-emp oops\UC-8-emp\UC-8-emp\bin\Debug\net5.0\UC-8-emp.runtimeconfig.dev.json
+C:\Users\churchill paul\source\repos\UC-emp oops\UC-8-emp\UC-8-emp\bin\Debug\net5.0\UC-8-emp.dll
+C:\Users\churchill paul\source\repos\UC-emp oops\UC-8-emp\UC-8-emp\bin\Debug\net5.0\UC-8-emp.pdb
+C:\Users\churchill paul\source\repos\UC-emp oops\UC-8-emp\UC-8-emp\obj\Debug\net5.0\UC-8-emp.csproj.AssemblyReference.cache
+C:\Users\churchill paul\source\repos\UC-emp oops\UC-8-emp\UC-8-emp\obj\Debug\net5.0\UC-8-emp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churchill paul\source\repos\UC-emp oops\UC-8-emp\UC-8-emp\obj\Debug\net5.0\UC-8-emp.AssemblyInfoInputs.cache
+C:\Users\churchill paul\source\repos\UC-emp oops\UC-8-emp\UC-8-emp\obj\Debug\net5.0\UC-8-emp.AssemblyInfo.cs
+C:\Users\churchill paul\source\repos\UC-emp oops\UC-8-emp\UC-8-emp\obj\Debug\net5.0\UC-8-emp.csproj.CoreCompileInputs.cache
+C:\Users\churchill paul\source\repos\UC-emp oops\UC-8-emp\UC-8-emp\obj\Debug\net5.0\UC-8-emp.dll
+C:\Users\churchill paul\source\repos\UC-emp oops\UC-8-emp\UC-8-emp\obj\Debug\net5.0\refint\UC-8-emp.dll
+C:\Users\churchill paul\source\repos\UC-emp oops\UC-8-emp\UC-8-emp\obj\Debug\net5.0\UC-8-emp.pdb
+C:\Users\churchill paul\source\repos\UC-emp oops\UC-8-emp\UC-8-emp\obj\Debug\net5.0\UC-8-emp.genruntimeconfig.cache
+C:\Users\churchill paul\source\repos\UC-emp oops\UC-8-emp\UC-8-emp\obj\Debug\net5.0\ref\UC-8-emp.dll
