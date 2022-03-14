@@ -1,0 +1,16 @@
+C:\Users\churchill paul\source\repos\New folder\UC-3-EMP\UC-3-EMP\bin\Debug\net5.0\UC-3-EMP.exe
+C:\Users\churchill paul\source\repos\New folder\UC-3-EMP\UC-3-EMP\bin\Debug\net5.0\UC-3-EMP.deps.json
+C:\Users\churchill paul\source\repos\New folder\UC-3-EMP\UC-3-EMP\bin\Debug\net5.0\UC-3-EMP.runtimeconfig.json
+C:\Users\churchill paul\source\repos\New folder\UC-3-EMP\UC-3-EMP\bin\Debug\net5.0\UC-3-EMP.runtimeconfig.dev.json
+C:\Users\churchill paul\source\repos\New folder\UC-3-EMP\UC-3-EMP\bin\Debug\net5.0\UC-3-EMP.dll
+C:\Users\churchill paul\source\repos\New folder\UC-3-EMP\UC-3-EMP\bin\Debug\net5.0\UC-3-EMP.pdb
+C:\Users\churchill paul\source\repos\New folder\UC-3-EMP\UC-3-EMP\obj\Debug\net5.0\UC-3-EMP.csproj.AssemblyReference.cache
+C:\Users\churchill paul\source\repos\New folder\UC-3-EMP\UC-3-EMP\obj\Debug\net5.0\UC-3-EMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churchill paul\source\repos\New folder\UC-3-EMP\UC-3-EMP\obj\Debug\net5.0\UC-3-EMP.AssemblyInfoInputs.cache
+C:\Users\churchill paul\source\repos\New folder\UC-3-EMP\UC-3-EMP\obj\Debug\net5.0\UC-3-EMP.AssemblyInfo.cs
+C:\Users\churchill paul\source\repos\New folder\UC-3-EMP\UC-3-EMP\obj\Debug\net5.0\UC-3-EMP.csproj.CoreCompileInputs.cache
+C:\Users\churchill paul\source\repos\New folder\UC-3-EMP\UC-3-EMP\obj\Debug\net5.0\UC-3-EMP.dll
+C:\Users\churchill paul\source\repos\New folder\UC-3-EMP\UC-3-EMP\obj\Debug\net5.0\refint\UC-3-EMP.dll
+C:\Users\churchill paul\source\repos\New folder\UC-3-EMP\UC-3-EMP\obj\Debug\net5.0\UC-3-EMP.pdb
+C:\Users\churchill paul\source\repos\New folder\UC-3-EMP\UC-3-EMP\obj\Debug\net5.0\UC-3-EMP.genruntimeconfig.cache
+C:\Users\churchill paul\source\repos\New folder\UC-3-EMP\UC-3-EMP\obj\Debug\net5.0\ref\UC-3-EMP.dll
