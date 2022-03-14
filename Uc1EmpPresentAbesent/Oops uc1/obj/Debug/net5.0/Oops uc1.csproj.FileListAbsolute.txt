@@ -1,0 +1,16 @@
+C:\Users\churchill paul\source\repos\Oops uc1\Oops uc1\bin\Debug\net5.0\Oops uc1.exe
+C:\Users\churchill paul\source\repos\Oops uc1\Oops uc1\bin\Debug\net5.0\Oops uc1.deps.json
+C:\Users\churchill paul\source\repos\Oops uc1\Oops uc1\bin\Debug\net5.0\Oops uc1.runtimeconfig.json
+C:\Users\churchill paul\source\repos\Oops uc1\Oops uc1\bin\Debug\net5.0\Oops uc1.runtimeconfig.dev.json
+C:\Users\churchill paul\source\repos\Oops uc1\Oops uc1\bin\Debug\net5.0\Oops uc1.dll
+C:\Users\churchill paul\source\repos\Oops uc1\Oops uc1\bin\Debug\net5.0\Oops uc1.pdb
+C:\Users\churchill paul\source\repos\Oops uc1\Oops uc1\obj\Debug\net5.0\Oops uc1.csproj.AssemblyReference.cache
+C:\Users\churchill paul\source\repos\Oops uc1\Oops uc1\obj\Debug\net5.0\Oops uc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churchill paul\source\repos\Oops uc1\Oops uc1\obj\Debug\net5.0\Oops uc1.AssemblyInfoInputs.cache
+C:\Users\churchill paul\source\repos\Oops uc1\Oops uc1\obj\Debug\net5.0\Oops uc1.AssemblyInfo.cs
+C:\Users\churchill paul\source\repos\Oops uc1\Oops uc1\obj\Debug\net5.0\Oops uc1.csproj.CoreCompileInputs.cache
+C:\Users\churchill paul\source\repos\Oops uc1\Oops uc1\obj\Debug\net5.0\Oops uc1.dll
+C:\Users\churchill paul\source\repos\Oops uc1\Oops uc1\obj\Debug\net5.0\refint\Oops uc1.dll
+C:\Users\churchill paul\source\repos\Oops uc1\Oops uc1\obj\Debug\net5.0\Oops uc1.pdb
+C:\Users\churchill paul\source\repos\Oops uc1\Oops uc1\obj\Debug\net5.0\Oops uc1.genruntimeconfig.cache
+C:\Users\churchill paul\source\repos\Oops uc1\Oops uc1\obj\Debug\net5.0\ref\Oops uc1.dll
