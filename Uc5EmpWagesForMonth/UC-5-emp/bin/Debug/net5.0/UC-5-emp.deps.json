@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UC-5-emp/1.0.0": {
+        "runtime": {
+          "UC-5-emp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UC-5-emp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
